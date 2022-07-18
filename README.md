@@ -14,7 +14,7 @@ tenho me dedicado a me tornar um dev fullstack.
 ## ⚙️ Meus dados no Github 
   
 <div align="center">
-  <a href="https://github.com/GChimel">
+  <a href="https://github.com/Neurizinn">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Neurizinn&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
 <!--   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neurizinn&layout=compact&langs_count=7&theme=calm"/> -->
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neurizinn&theme=react"/>
@@ -24,7 +24,7 @@ tenho me dedicado a me tornar um dev fullstack.
     <img align="center" alt="Neurizinn-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="Neurizinn-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="Neurizinn-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="Neurizinn-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
+    <img align="center" alt="Neurizinn-Lua" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css"/>
 
   </div>
   
