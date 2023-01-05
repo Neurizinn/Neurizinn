@@ -1,34 +1,27 @@
-## Olá, eu sou o Neuri!
- 
+## Olá, eu sou o Neuri! 👋
+
+**Sobre Mim**
 ```
 Estudante de Engenharia de Software pela Campo Real, sou fascinado por computação desde criança e atualmente 
-tenho me dedicado a me tornar um dev fullstack.
+tenho me dedicado a me tornar um dev Full-Stack.
 ```
 
 ## 💻 Tecnologias que estou estudando atualmente 
+ - Python
+ - React.js
+ - Kotlin
+
+## 👨‍💻 Tecnologias Avançadas
  - Lua
- - Html
- - Css
  - JavaScript
+ - Node.js
+ - HTML & CSS
 
 ## ⚙️ Meus dados no Github 
   
-<div align="center">
-  <a href="https://github.com/Neurizinn">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Neurizinn&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-<!--   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neurizinn&layout=compact&langs_count=7&theme=calm"/> -->
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neurizinn&theme=react"/>
-</div>
+<img align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?theme=tokyonight&username=Neurizinn&show_icons=true&include_all_commits=true&hide_border=true" height="200"/> <img align="center" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neurizinn&layout=compact&exclude_repo=CZ3003-SSAD&hide_border=true&theme=tokyonight&langs_count=10" height="200"/>
   
- <div style="display: inline_block"><br>
-    <img align="center" alt="Neurizinn-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="Neurizinn-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="Neurizinn-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="Neurizinn-Lua" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg"/>
-
-  </div>
-  
-  ##
+## 📱 Social
   
   <div> 
 
