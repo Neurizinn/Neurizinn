@@ -19,8 +19,8 @@ tenho me dedicado a me tornar um dev Full-Stack.
 
 ## ⚙️ Meus dados no Github 
   
-<img align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?theme=tokyonight&username=Neurizinn&show_icons=true&include_all_commits=true&hide_border=true" height="200"/>
-<img align="center" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neurizinn&layout=compact&exclude_repo=CZ3003-SSAD&hide_border=true&theme=tokyonight&langs_count=10" height="200"/>
+<img align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?theme=tokyonight&username=Neurizinn&show_icons=true&include_all_commits=true&hide_border=true" height="150"/>
+<img align="center" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neurizinn&layout=compact&exclude_repo=CZ3003-SSAD&hide_border=true&theme=tokyonight&langs_count=10" height="150"/>
 
 &nbsp;<br/> 
 ## 📱 Social
