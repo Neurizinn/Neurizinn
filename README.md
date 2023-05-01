@@ -9,7 +9,7 @@ tenho me dedicado a me tornar um dev Full-Stack.
 ## 💻 Tecnologias que estou estudando atualmente 
  - Python
  - React.js
- - Kotlin
+ - C#
 
 ## 👨‍💻 Tecnologias Avançadas
  - Lua
